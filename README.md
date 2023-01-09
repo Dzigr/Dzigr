@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**Dzigr/Dzigr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dmitry and currently looking for the career opportunities as a Junior Python developer.
 
-Here are some ideas to get you started:
+- 💻 My projects are available [here](https://github.com/dzigr?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My CV is here](https://cv.hexlet.io/resumes/1683)
+
+
+## My contacts: 
+![mailto:dmbrag@gmail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)
+![https://t.me/dmitrybrag](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)
+
+## 💻 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-4682B4?style=flat&logo=linux&logoColor=white&color=4682B4)
+![](https://img.shields.io/badge/Editor-PyCharm-4682B4?style=flat&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-4682B4?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
+
+## 📈 GitHub Stats
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dzigr&show_icons=true&include_all_commits=true&count_private=true&&hide=stars,issues&theme=dark&hide_border=true" alt="Dmitry's github stats" /></a> | <a href="https://github.com/Dzigr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzigr&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- <div align="center">
+<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif"/>
+</div> --> 
+
