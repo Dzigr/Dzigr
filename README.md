@@ -8,8 +8,8 @@ I'm Dmitry and currently looking for the career opportunities as a Junior Python
 
 
 ## My contacts: 
-![mailto:dmbrag@gmail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)
-![https://t.me/dmitrybrag](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)
+[![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dmbrag@gmail.com)
+[![telegram](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/dmitrybrag)
 
 ## 💻 Technologies & Tools
 
