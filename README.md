@@ -1,10 +1,23 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Dmitry and currently looking for the career opportunities as a Junior Python developer.
+I'm Dmitry and currently looking for the career opportunities as a Junior Python developer. My CV is [here](https://cv.hexlet.io/resumes/1683)
 
-- 💻 My projects are available [here](https://github.com/dzigr?tab=repositories)
+<details><summary>
+  
+### 💻 My projects
 
-- [My CV is here](https://cv.hexlet.io/resumes/1683)
+</summary>
+  
+----
+  
+- [Task manager](https://github.com/Dzigr/Task-manager) - web-application based on the Django framework, that allows to set tasks with assign performers, change tasks statuses and labels. 
+- [Page analizer](https://github.com/Dzigr/Page-Analyzer) - web-application based on the Flask framework, where you can get simple web-site SEO suitability.
+- [Gendiff](https://github.com/Dzigr/Gendiff) - application for comparing two given files to find the difference and display according to the given output format.
+- [Brain games](https://github.com/Dzigr/Brain-games) - simple logical games.
+- other project are [here](https://github.com/dzigr?tab=repositories)
+
+----
+</details>
 
 
 ## My contacts: 
