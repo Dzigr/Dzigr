@@ -23,6 +23,7 @@ I'm Dmitry and currently looking for the career opportunities as a Junior Python
 ## My contacts: 
 [![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dmbrag@gmail.com)
 [![telegram](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/dmitrybrag)
+[![linkedin](https://img.shields.io/badge/-linkedin-0075cc?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-ibragimov-87b19383/)
 
 ## 💻 Technologies & Tools
 
