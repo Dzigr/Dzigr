@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Dmitry and currently looking for the career opportunities as a Junior Python developer. My CV is [here](https://cv.hexlet.io/resumes/1683)
+I'm Dmitry and currently looking for the career opportunities as a Junior Python developer.
 
 <details><summary>
   
