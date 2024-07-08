@@ -1,23 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Dmitry.
-
-<details><summary>
-  
-### 💻 My projects
-
-</summary>
-  
-----
-  
-- [Task manager](https://github.com/Dzigr/Task-manager) - web-application based on the Django framework, that allows to set tasks with assign performers, change tasks statuses and labels. 
-- [Page analizer](https://github.com/Dzigr/Page-Analyzer) - web-application based on the Flask framework, where you can get simple web-site SEO suitability.
-- [Gendiff](https://github.com/Dzigr/Gendiff) - application for comparing two given files to find the difference and display according to the given output format.
-- [Brain games](https://github.com/Dzigr/Brain-games) - simple logical games.
-- other project are [here](https://github.com/dzigr?tab=repositories)
-
-----
-</details>
+I'm a Python developer and if you are interested in - my contact information is below.
 
 
 ## My contacts: 
